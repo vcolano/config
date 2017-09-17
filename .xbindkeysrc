@@ -1,0 +1,19 @@
+###########################
+# xbindkeys configuration #
+###########################
+
+# Workspace Left
+ "xte 'keydown Control_L' 'keydown Super_L' 'key Left' 'keyup Super_L' 'keyup Control_L'"
+  b:8
+
+# Workspace Right
+ "xte 'keydown Control_L' 'keydown Super_L' 'key Right' 'keyup Super_L' 'keyup Control_L'"
+  b:9
+
+# Expose
+ "xte 'keydown Super_L' 'key w' 'keyup Super_L'"
+  b:2
+
+##################################
+# End of xbindkeys configuration #
+##################################
